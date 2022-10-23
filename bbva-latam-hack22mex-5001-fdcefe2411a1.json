@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bbva-latam-hack22mex-5001",
+  "private_key_id": "fdcefe2411a1435f8eb952c0c7cd644b4e8795c8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+d5WDkstx8kGH\ngH9JRI9bvwhrhH/AJLpAocOLybhm/J8eJ42JXq6WjSvtFzbn5xGN6bMAzTpQ8ZIB\nzzYweoOzx7qk7GmgJ7Mx5Q8J0AvKgLBqcb3Xxr6PykJb5xi2I0pC0cIGyqR08x+s\nMIfktaqzm1p3ig5Hjhdq2Ob0Mkg5aB0ly+cS/LtddWKFBREc8z8g1uqUP+JSOyns\n0Y6ndB4kFxWBdCkm6BhKMokeg3Frtnbl3YUyLzk2NOWm3sBJihWH0aUikhwD/edF\nditjkHVBf3UA61K+xly1P9ZYO+A8cI9o1cjMuLl8XT/fg7nY9KOmbUouKFrJrjRu\nhxCeodE/AgMBAAECggEANxem9y5kS3rLypJ3/uzmXJ7WpCbovt7AwwYnZk08Wgmz\nSskdDwGElYaTEJq45n43XSmefdpfBl/BoGVb4szlQIDCs4awjMM++W0smuWDK5lq\nrfdldr8FitjxtdyUEMcHaWl76nP9+tgCLs/A1v5XOGl00wPrWnY2vtCriTHsIzJB\n8s2iO6YkccUpmq4u/e07JPwnC3nqqSEDKYNRlors/fRxCX1HgkGeTgQg5P/PQ72F\n2xQjA2acVOwAOppNBuuVJXBHtOycFBEiSTBdGbBxX4Ih44UwgJLyYAZOwSd1gWSq\nlw3UeZ64SjIDzthQKkulIxJUsbims0sZDosgi8qklQKBgQD8EoTXfeOZH8kVfqxC\n++pVzJyuYlZhmdD9GjCbzoAHytyHMz8cnXfloKBoqjePHemocl1lk/2elWgp/F0s\nXMzwwq0xhRbSxvNJalxfi7qJQG1PSYzvnS6wpwBluzFZvDtfuxaVYRdd0j+jLtPD\n9CmIVWp1JpaVu6mstCTAVCJg9QKBgQDBb1Sh69VKyGy1m0dNB8IIFTRJNHVQae4v\ndmtmyU7mBiEJ/r3rC4NMoUJ23larrVdZT5XInTFYI0Ucbo8Pd/hFy5k8ylwfylnL\nzQigxPuNN04oCzRHkk8v08N/ZQ4OAFEdLmEZs5txu3AeTytB5WrK9FKZqaIsEZC8\nq8NIQAd44wKBgDaYBDFv0IVvfuuq3cA8M0qV4DFclvzYhYzryS9VkCEf7JdToA2g\nhUE0gsloZFQY1GxpKJVBciKQlVjSkZN0HebfIwegnYrVEAgMgykmaCYl0AbmFSIo\nVt5nrQxbeJrIy8s2B/QebSMi0CmVkMPV89DVPxNUYjTXyi3fbj5BepipAoGAYcUI\nzPLrkuns8Hn0tv2V2AoHrHykUynHpxu+u2xCwccVSf0FN1lRWxkjA/vraMirnsu4\nFHdHapohI3bKPnJP/c8ju/M4TyUy7+zJUKFf2Ae9LEZFfWt5NN5fMPP9/5uvZAV+\nNMRwbDLmP5uabKstqDmHyn1QJ+AU/RgAE3OxkysCgYEAo/BfLGU2nWdGgo3gzjDb\ndYXAwlwM066t79z3VC36UeK8tyL4NzilLWvM+Yu5mBLopnOAU2Di83WPjLjLUkXU\nHeFl31WOHndOEkwvrC62/IJOZy+0gtNH2sfoNPEqZ2oljeJsqkfSAueV6Xyh9qAh\nTqHS8pMCHa+Bw+KekAqpRTU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bbva-latam-hack22mex-5001@appspot.gserviceaccount.com",
+  "client_id": "107443941652312894395",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bbva-latam-hack22mex-5001%40appspot.gserviceaccount.com"
+}
